@@ -8,10 +8,10 @@
 ### Productivity: Slack, Dropmark, Siftery, Knotable
 
 ---------------------------------------------------Product Target---------------------------------------------------
-## Marketing
-Sales and support
-Product and Design
-Analytics
-HR tools
-Finance and accounting
-Producting: Slack, Drop , Dropmark , Siftery , Knotable 
+# Marketing
+- Sales and support
+- Product and Design
+- Analytics
+- HR tools
+- Finance and accounting
+- Producting :Slack, Drop , Dropmark , Siftery , Knotable 
